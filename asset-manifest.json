@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/firstapp-salarycalc/static/css/main.85806d2f.chunk.css",
+    "main.js": "/firstapp-salarycalc/static/js/main.d959432c.chunk.js",
+    "main.js.map": "/firstapp-salarycalc/static/js/main.d959432c.chunk.js.map",
+    "runtime-main.js": "/firstapp-salarycalc/static/js/runtime-main.8792ddc1.js",
+    "runtime-main.js.map": "/firstapp-salarycalc/static/js/runtime-main.8792ddc1.js.map",
+    "static/js/2.ef1b9c72.chunk.js": "/firstapp-salarycalc/static/js/2.ef1b9c72.chunk.js",
+    "static/js/2.ef1b9c72.chunk.js.map": "/firstapp-salarycalc/static/js/2.ef1b9c72.chunk.js.map",
+    "index.html": "/firstapp-salarycalc/index.html",
+    "precache-manifest.869d7909c69ad4522922413da174586f.js": "/firstapp-salarycalc/precache-manifest.869d7909c69ad4522922413da174586f.js",
+    "service-worker.js": "/firstapp-salarycalc/service-worker.js",
+    "static/css/main.85806d2f.chunk.css.map": "/firstapp-salarycalc/static/css/main.85806d2f.chunk.css.map",
+    "static/js/2.ef1b9c72.chunk.js.LICENSE.txt": "/firstapp-salarycalc/static/js/2.ef1b9c72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8792ddc1.js",
+    "static/js/2.ef1b9c72.chunk.js",
+    "static/css/main.85806d2f.chunk.css",
+    "static/js/main.d959432c.chunk.js"
+  ]
+}
